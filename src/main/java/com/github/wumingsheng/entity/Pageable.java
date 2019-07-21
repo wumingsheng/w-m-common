@@ -1,4 +1,4 @@
-package com.woms.maven.entity;
+package com.github.wumingsheng.entity;
 
 
 import java.util.List;

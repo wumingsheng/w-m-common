@@ -1,4 +1,4 @@
-package com.woms.maven.utils;
+package com.github.wumingsheng.utils;
 import java.util.Set;
 
 import javax.validation.ConstraintViolation;

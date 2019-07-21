@@ -1,4 +1,4 @@
-package com.woms.maven.enums;
+package com.github.wumingsheng.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

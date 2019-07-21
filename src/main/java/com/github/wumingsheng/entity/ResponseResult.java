@@ -1,6 +1,6 @@
-package com.woms.maven.entity;
+package com.github.wumingsheng.entity;
 
-import com.woms.maven.enums.ResponseCodeEnum;
+import com.github.wumingsheng.enums.ResponseCodeEnum;
 
 import lombok.Data;
 

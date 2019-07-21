@@ -27,6 +27,8 @@
 
 - gpg --gen-key
 - gpg --list-keys
+- gpg --keyserver hkp://keyserver.ubuntu.com:11371 --send-keys AE61C8EF3E231F8816BB8904E6230AA6C3EF03BD
+- gpg --keyserver hkp://keyserver.ubuntu.com:11371 --receive-keys AE61C8EF3E231F8816BB8904E6230AA6C3EF03BD
 
 # deploy
 

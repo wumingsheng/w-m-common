@@ -3,12 +3,7 @@ package com.woms.maven.enums;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
-/**
- * 
- * @author wms
- *
- * @date Jul 9, 2019
- */
+
 
 @Getter
 @AllArgsConstructor

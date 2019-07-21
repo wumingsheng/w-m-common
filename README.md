@@ -28,6 +28,11 @@
 - gpg --gen-key
 - gpg --list-keys
 
+# deploy
+
+mvn clean deploy -P sonatype-oss-release -Dgpg.passphrase=AE61C8EF3E231F8816BB8904E6230AA6C3EF03BD
+
+
 
 
 

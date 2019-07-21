@@ -5,12 +5,7 @@ import java.util.List;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-/**
- * 
- * @author wms
- *
- * @date Jul 10, 2019
- */
+
 @Data
 @AllArgsConstructor
 public class Pageable<T> {

@@ -3,12 +3,7 @@ package com.woms.maven.entity;
 import com.woms.maven.enums.ResponseCodeEnum;
 
 import lombok.Data;
-/**
- * 
- * @author wms
- *
- * @date Jul 9, 2019
- */
+
 @Data
 public class ResponseResult<T> {
 

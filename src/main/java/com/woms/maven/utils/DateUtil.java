@@ -9,12 +9,7 @@ import java.util.Date;
 
 import org.apache.commons.lang3.StringUtils;
 
-/**
- * 
- * @author wms
- *
- * @date Jun 28, 2019
- */
+
 public class DateUtil {
 	
 	private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");

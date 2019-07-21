@@ -1,11 +1,7 @@
 package com.woms.maven.utils;
 
 import java.util.UUID;
-/**
- * 
- * @author wms
- *
- */
+
 public class UUIDUtil {
 	
     /**

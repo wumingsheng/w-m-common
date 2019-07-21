@@ -12,9 +12,6 @@ import javax.xml.bind.ValidationException;
 
 /**
  * 校验工具类
- * @author wms
- *
- * @date Jul 10, 2019
  */
 public class ValidationUtil {  
 	  

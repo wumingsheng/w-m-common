@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.wumingsheng</groupId>
 	<artifactId>w-m-common</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<name>w-m-common</name>
 	<description>woms maven base common</description>
 	<url>https://github.com/wumingsheng/w-m-common</url>

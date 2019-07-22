@@ -2,9 +2,11 @@ package com.github.wumingsheng.entity;
 
 import com.github.wumingsheng.enums.ResponseCodeEnum;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
+@AllArgsConstructor
 public class ResponseResult<T> {
 
 	private String message;

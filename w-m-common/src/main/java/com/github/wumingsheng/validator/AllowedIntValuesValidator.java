@@ -7,12 +7,12 @@ import org.apache.commons.lang3.ArrayUtils;
 
 public class AllowedIntValuesValidator implements ConstraintValidator<AllowedIntValues,Integer>  {
 	
-	private int[] allowedValues;
+	private Integer[] allowedValues;
 
 	@Override
 	public void initialize(AllowedIntValues constraintAnnotation) {
-		this.allowedValues = constraintAnnotation.allowedValues();
-		ConstraintValidator.super.initialize(constraintAnnotation);
+		int[] ints = constraintAnnotation.allowedValues();
+		this.allowedValues = ArrayUtils.toObject(ints);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ import javax.validation.Payload;
 @Documented
 public @interface AllowedIntValues  {
 	
-	int [] allowedValues();
+	int[] allowedValues();
 	
 	String message() default "参数值无效";
 
